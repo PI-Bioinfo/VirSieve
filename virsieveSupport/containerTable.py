@@ -1,8 +1,8 @@
 containerTagTable = {
     "virsievealign": "VirSieveAlign",
     "virsieveivar": "VirSieveIVar",
-    "virsievegatk": "VirsieveGATK",
-    "virsievevep": "VirsieveVEP",
+    "virsievegatk": "VirSieveGATK",
+    "virsievevep": "VirSieveVEP",
     "virsievefreyja": "virsievefreyja"
 }
 
